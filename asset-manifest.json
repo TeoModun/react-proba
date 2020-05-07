@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-proba/static/css/main.8cae1ee9.chunk.css",
+    "main.js": "/react-proba/static/js/main.d651b18a.chunk.js",
+    "main.js.map": "/react-proba/static/js/main.d651b18a.chunk.js.map",
+    "runtime-main.js": "/react-proba/static/js/runtime-main.142b7027.js",
+    "runtime-main.js.map": "/react-proba/static/js/runtime-main.142b7027.js.map",
+    "static/js/2.68c2882a.chunk.js": "/react-proba/static/js/2.68c2882a.chunk.js",
+    "static/js/2.68c2882a.chunk.js.map": "/react-proba/static/js/2.68c2882a.chunk.js.map",
+    "index.html": "/react-proba/index.html",
+    "precache-manifest.abf2099c72e672d42ef3a874e4309486.js": "/react-proba/precache-manifest.abf2099c72e672d42ef3a874e4309486.js",
+    "service-worker.js": "/react-proba/service-worker.js",
+    "static/css/main.8cae1ee9.chunk.css.map": "/react-proba/static/css/main.8cae1ee9.chunk.css.map",
+    "static/js/2.68c2882a.chunk.js.LICENSE.txt": "/react-proba/static/js/2.68c2882a.chunk.js.LICENSE.txt",
+    "static/media/slika.jpeg": "/react-proba/static/media/slika.b0ee7b8a.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.142b7027.js",
+    "static/js/2.68c2882a.chunk.js",
+    "static/css/main.8cae1ee9.chunk.css",
+    "static/js/main.d651b18a.chunk.js"
+  ]
+}
